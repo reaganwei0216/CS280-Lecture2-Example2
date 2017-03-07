@@ -1,0 +1,5 @@
+D:\reaganwei\CS280-Lecture2-Example2\Example03\bin\Debug\Example03.exe.config
+D:\reaganwei\CS280-Lecture2-Example2\Example03\bin\Debug\Example03.exe
+D:\reaganwei\CS280-Lecture2-Example2\Example03\bin\Debug\Example03.pdb
+D:\reaganwei\CS280-Lecture2-Example2\Example03\obj\Debug\Example03.exe
+D:\reaganwei\CS280-Lecture2-Example2\Example03\obj\Debug\Example03.pdb
