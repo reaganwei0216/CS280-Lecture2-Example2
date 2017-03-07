@@ -10,18 +10,32 @@ namespace Example01
     {
         private static void Main(string[] args)
         {
-            Console.Write("please input your name:");
-            string name = Console.ReadLine();
-            Console.Write("please input your password:");
-            string password = Console.ReadLine();
-            Console.WriteLine("hi {0} welcome", name);
-            Console.WriteLine("!!!!!");
+            //Console.Write("please input your name:");
+            //string name = Console.ReadLine();
+            //Console.Write("please input your password:");
+            //string password = Console.ReadLine();
+            //Console.WriteLine("hi {0} welcome", name);
+            //Console.WriteLine("^____________^");
 
-            //Console.WriteLine("使用者名稱:");
-            //string userName = Console.ReadLine();
-            //Console.WriteLine(); ("請輸入密碼");
-            //string userPassword = Console.ReadLine();
-            //Console.WriteLine("{0} 您好，登入成功", userName);
+            //float floatPI = 3.141592653589793238f;
+            //double doublePI = 3.141592653589793238;
+            //Console.WriteLine("Float PI is: {0}", floatPI);
+            //Console.WriteLine("Double PI is: {0}", doublePI);
+            //Console.WriteLine("^____________^");
+
+            Console.WriteLine(0.1f + 0.2f == 0.3f);
+            Console.WriteLine(1 / 2);
+            Console.WriteLine((1 / 2) * 10);
+            Console.WriteLine(0.1f + 0.2f == 0.3f);
+            Console.WriteLine(1.0f + 0.33f == 1.33f);
+            Console.WriteLine(1.0 / 2.0 * 10.0);
+
+            //double a = 1.0ff;
+            //double b = 0.33f;
+            //double sum = 1.33f;
+            //bool equal = (a + b == sum);
+            //Console.WriteLine("a+b={0}  sum={1}  equal={2}",
+            //    a + b, sum, equal);
         }
     }
 }
